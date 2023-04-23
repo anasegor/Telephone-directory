@@ -1,0 +1,13 @@
+R:\Егорова\Таблицы1\Таблицы1\bin\Debug\Таблицы1.exe.config
+R:\Егорова\Таблицы1\Таблицы1\obj\Debug\Таблицы1.csprojResolveAssemblyReference.cache
+R:\Егорова\Таблицы1\Таблицы1\obj\Debug\Таблицы1.Form1.resources
+R:\Егорова\Таблицы1\Таблицы1\obj\Debug\Таблицы1.FormAddAb.resources
+R:\Егорова\Таблицы1\Таблицы1\obj\Debug\Таблицы1.Properties.Resources.resources
+R:\Егорова\Таблицы1\Таблицы1\obj\Debug\Таблицы1.csproj.GenerateResource.Cache
+R:\Егорова\Таблицы1\Таблицы1\bin\Debug\Таблицы1.exe
+R:\Егорова\Таблицы1\Таблицы1\bin\Debug\Таблицы1.pdb
+R:\Егорова\Таблицы1\Таблицы1\obj\Debug\Таблицы1.exe
+R:\Егорова\Таблицы1\Таблицы1\obj\Debug\Таблицы1.pdb
+R:\Егорова\Таблицы1\Таблицы1\obj\Debug\Таблицы1.FormAddCo.resources
+R:\Егорова\Таблицы1\Таблицы1\obj\Debug\Таблицы1.FormAddProv.resources
+R:\Егорова\Таблицы1\Таблицы1\obj\Debug\Таблицы1.FormAddCatCon.resources
